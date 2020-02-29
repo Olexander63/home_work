@@ -1,0 +1,56 @@
+body,html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: RGB(39,39,39);
+    color: white;
+    /*height: 980px;*/
+    /*width: 900px;*/
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 0;
+}
+
+.main {
+    box-sizing: border-box;
+
+    /*margin-left: 20px;*/
+    width: 900px;
+    height: 600px;
+    padding: 20px;
+}
+img {
+    border: 5px solid white;
+    align-content: normal;
+    margin-right: 30px;
+}
+.aboutFinancing, .financingCenter{
+   height: 250px;
+    width: 800px;
+   margin-bottom: 30px;
+}
+* {
+    margin-top: 0;
+}
+a:link {
+    color: white;
+    background-color: RGB(32,152,245);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.grey {
+    color: grey;
+}
+p {
+    text-align: left;
+    /*padding-left: 20px;*/
+/*margin-left:  0px;*/
+}
+.image {
+    padding-right: 40px;
+    margin: 10px;
+}
+h2 {
+    padding-top: 10px;
+}
